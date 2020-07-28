@@ -2,8 +2,9 @@
 Totem, Gerar senha através de uma API e imprimi-la em uma Impressora Termica De Cupom 'EPSON'. 
 #
 TESTADA  NAS IMPRESORAS:
-TM-T20/n</br>
+</br>
+TM-T20</br>
 TM-T20x
 #
-DOCUMENTAÇÃO:
+DOCUMENTAÇÃO:</br>
 https://download.epson-biz.com/modules/pos/index.php?page=prod&pcat=3&pid=37
